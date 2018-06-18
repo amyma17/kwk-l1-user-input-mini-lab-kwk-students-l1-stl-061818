@@ -16,9 +16,9 @@ puts"what will you eat?"
 eat=gets.chomp.capitalize
 puts "where will you spend your nights?"
 nights=gets.chomp.capitalize
-puts "Where will you go?"
+puts "Where will you visit?"
 activity= gets.chomp.capitalize
-puts "What else would you do?"
+puts "Where else will you visit?"
 another=gets.chomp.capitalize
 puts "How long will you be staying?"
 days=gets.chomp.capitalize
