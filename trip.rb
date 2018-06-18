@@ -3,7 +3,7 @@
 # First, puts out a string asking where the tourist would like to stay.
 puts "Hello, whats your name?"
 name=gets.chomp.capitalize
-puts "You look like you need a vacation"
+puts "Hi! I'm computer.You look like you need a vacation"
 answer=gets.chomp.capitalize
 puts "Ok,Let's plan your trip! Where would you like to stay?"
 
