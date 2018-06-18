@@ -1,3 +1,3 @@
-name = "Amy"
-age = "15 years old"
-puts "my name is #{name} and I am #{age}"
+puts "Hello, what's your name"
+name=gets
+puts "Oh hello #{name}! I am computer!"
