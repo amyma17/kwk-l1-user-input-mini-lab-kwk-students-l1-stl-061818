@@ -1,2 +1,2 @@
 name = "Amy"
-puts name
+puts "my name is #{name}"
