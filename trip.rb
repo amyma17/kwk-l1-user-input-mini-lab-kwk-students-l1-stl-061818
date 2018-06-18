@@ -21,6 +21,6 @@ activity= gets.chomp.capitalize
 puts "What else would you do?"
 another=gets.chomp.capitalize
 puts "How long will you be staying?"
-number=gets.chomp.capitalize
+days=gets.chomp.capitalize
 # Lastly, puts it all back by interpolating these values in a string.
 puts "ok! You will stay at #{nights} and you will eat #{eat} for #{days}. You will go visit #{place} and #{another} Have fun!"
