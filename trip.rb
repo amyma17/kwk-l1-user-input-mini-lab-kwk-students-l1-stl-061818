@@ -18,4 +18,4 @@ puts "where will you spend your nights?"
 nights=gets.chomp.capitalize
 
 # Lastly, puts it all back by interpolating these values in a string.
-puts "ok! You will stay at #{nights} and you will eat at #{eat}. Have fun!"
+puts "ok! You will stay at #{nights} and you will eat #{eat}. Have fun!"
